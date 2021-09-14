@@ -56,14 +56,6 @@ Through three years of accumulation and direction exploration, Swoft has made Sw
 - [中文文档](https://www.swoft.org/docs)
 - [English](http://swoft.io/docs)
 
-## Discuss
-
-- Forum https://github.com/swoft-cloud/forum/issues
-- Gitter.im https://gitter.im/swoft-cloud/community
-- Reddit https://www.reddit.com/r/swoft/
-- QQ Group3: 541038173   
-- QQ Group2: 778656850(full)
-- QQ Group1: 548173319(full)
 
 ## Requirement
 
